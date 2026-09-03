@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Subjects</title>
+</head>
+<body>
+
+    <h1>My Subjects</h1>
+
+    <ul>
+        <li>Java</li>
+        <li>DBMS</li>
+        <li>Software Engineering</li>
+        <li>Computer Networks</li>
+        <li>Artificial Intelligence</li>
+    </ul>
+
+</body>
+</html>
