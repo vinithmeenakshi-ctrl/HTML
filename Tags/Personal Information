@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>My Profile</h1>
+    <h2>Meenakshi</h2>
+
+    <p>College: Sri Shanmugha College of Engineering and Technology</p>
+    <p>Branch: Information Technology</p>
+    <p>Email: meenakshi@example.com</p>
+
+</body>
+</html>
