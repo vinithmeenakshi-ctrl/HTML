@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+
+<h1>Meenakshi Nagarajan</h1>
+
+<p>Email: example@gmail.com</p>
+<p>Phone: 9876543210</p>
+
+<hr>
+
+<h2>Career Objective</h2>
+
+<p>
+To obtain a challenging position where I can use my technical
+skills and improve my knowledge.
+</p>
+
+<h2>Education</h2>
+
+<table border="1">
+    <tr>
+        <th>Degree</th>
+        <th>College</th>
+        <th>CGPA</th>
+    </tr>
+
+    <tr>
+        <td>B.Tech IT</td>
+        <td>Sri Shanmugha College of Engineering and Technology</td>
+        <td>8.45</td>
+    </tr>
+</table>
+
+<h2>Technical Skills</h2>
+
+<ul>
+    <li>Java</li>
+    <li>C</li>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>HTML</li>
+</ul>
+
+<h2>Projects</h2>
+
+<h3>QueryGenie</h3>
+
+<p>
+Natural Language to SQL Conversion System with Voice Interface
+and Excel Integration.
+</p>
+
+<h2>Declaration</h2>
+
+<p>I hereby declare that the above information is true.</p>
+
+</body>
+</html>
