@@ -1,0 +1,29 @@
+<table border="1">
+    <tr>
+        <th>Employee ID</th>
+        <th>Name</th>
+        <th>Salary</th>
+        <th>Designation</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>Rahul</td>
+        <td>30000</td>
+        <td>Developer</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Meena</td>
+        <td>35000</td>
+        <td>Tester</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Vijay</td>
+        <td>40000</td>
+        <td>Manager</td>
+    </tr>
+</table>
